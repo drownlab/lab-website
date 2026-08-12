@@ -1,0 +1,47 @@
+---
+title: "SARS-CoV-2 Genomic Epidemiology"
+description: "Tracking variant introductions and spread across urban and rural Alaska through the Alaska SARS-CoV-2 Sequencing Consortium."
+image: /images/research/sars-cov-2.jpg
+order: 3
+categories: [Genomic Epidemiology, Alaska]
+nocite: |
+  @haan2023founder, @haan2022b11519, @eichelberger2021water
+---
+
+[Project overview]{.eyebrow}
+
+::: {.lead}
+Sequencing of SARS-CoV-2 genomes became the key technology for analyzing the
+spread of viral lineages, including detection of variants of concern.
+:::
+
+The lab invested significant effort in helping the State of Alaska respond to
+the pandemic through a collaboration led by Alaska INBRE called the Alaska
+SARS-CoV-2 Sequencing Consortium. We coauthored and then led NIH supplement
+proposals that funded increased sequencing capacity and supported research into
+the spread of variants of concern across urban and rural communities in Alaska.
+
+That funding produced two papers describing founder events for specific
+sublineages during the Alpha and Omicron waves. Alongside the sequencing work,
+we collaborated on modeling COVID-19 disease dynamics in Alaska with NIH
+support, and joined a nationwide network of IDeA state researchers working on
+SARS-CoV-2.
+
+The lab also analyzed sequencing data weekly and maintained a dynamic
+[Alaska Coronavirus Variants Dashboard](https://akvariants.github.io/) linked
+directly from the Alaska Department of Health COVID-19 dashboard. It was used by
+the public and featured in weekly COVID-19 informational sessions, providing
+accurate and timely communication about the situation in Alaska.
+
+::: {.horizon-rule}
+:::
+
+## Selected publications
+
+::: {#refs}
+:::
+
+## People on this project
+
+- [Bevyn Cover](/team/bevyn-cover/index.qmd)
+- [Tracie Haan](/team/tracie-haan/index.qmd)

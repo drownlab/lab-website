@@ -1,0 +1,40 @@
+---
+title: "Evolutionary Modeling of Spatially Structured Populations"
+description: "Population genetic theory for the evolution of symbiont transmission mode and host-parasite driven dispersal."
+image: /images/research/evolutionary-modeling.png
+order: 5
+categories: [Evolutionary Modeling]
+nocite: |
+  @drown2014runaway, @drown2013transmission, @drown2013migration, @gomulkiewicz2007mosaic
+---
+
+[Project overview]{.eyebrow}
+
+::: {.lead}
+Evolutionary genetic theory for how coevolution between hosts and their
+symbionts affects co-transmission of host and symbiont genomes.
+:::
+
+We developed population genetic models and computer simulations to investigate
+the evolution of symbiont transmission. Without stochastic forces like mutation,
+the conditions favoring vertical transmission of an obligate symbiont turn out
+to be restrictive. This theoretical work shows that intimate host-symbiont
+coevolution requires a high degree of specificity in the fitness interactions
+between both players.
+
+A companion result shows that antagonistic host-pathogen interactions generate
+both spatial and temporal fluctuations in fitness, and therefore favor increased
+dispersal rates. Under certain conditions, where interactions are strong, there
+is continuous evolutionary escalation in dispersal rates, which helps explain
+the ubiquity of dispersal in nature. The long-term evolution of dispersal
+described by the model provides an understanding of the empirical evidence of
+local adaptation necessary for host-parasite interactions to drive the evolution
+of host and pathogen dispersal.
+
+::: {.horizon-rule}
+:::
+
+## Selected publications
+
+::: {#refs}
+:::

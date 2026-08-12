@@ -1,0 +1,54 @@
+---
+title: "High Latitude Soil Microbiomes"
+description: "Plant-soil-microbe interactions across a permafrost thaw gradient, and the antibiotic resistance reservoir they harbor."
+image: /images/research/soil-microbiomes.jpg
+order: 1
+categories: [Soil Microbiomes, Alaska]
+nocite: |
+  @seitz2022unearthing, @seitz2021productivity, @haan2021resistance, @hueffer2020anthrax
+---
+
+[Project overview]{.eyebrow}
+
+::: {.lead}
+The overall goal of this research is to understand plant-soil-microbe
+interactions in response to a changing environment.
+:::
+
+This Alaska-based project initially focused on a permafrost thaw gradient at the
+Fairbanks Permafrost Experiment Station. We set up controlled experiments to
+test the effects of soil microbes on the growth of Alaskan berries. Plant growth
+slowed with microbes from thawed regions relative to controls. These plant-soil
+feedbacks may influence how the plant community responds to changing climatic
+conditions.
+
+We then dug deeper into the microbial community, profiling its functional
+potential alongside an in-depth study of community structure across the thaw
+disturbance gradient.
+
+The lab has applied this work to understanding antibiotic resistance in the
+environment. Identifying specific antibiotic resistant microbes is essential for
+quick and appropriate treatment of Alaskans. Using culture-based methods, we
+found widespread antibiotic resistance in local boreal forest soils affected by
+thawing permafrost.
+
+We have also worked with members of the US Fish and Wildlife Service and Los
+Alamos National Laboratory to develop a collaboration for monitoring Alaska's
+National Wildlife Refuges for microbial indicators and pathogenic vectors with
+implications for human and wildlife health.
+
+::: {.horizon-rule}
+:::
+
+## Selected publications
+
+::: {#refs}
+:::
+
+## People on this project
+
+- [Ági Lehr](/team/agi-lehr/index.qmd)
+- [Bevyn Cover](/team/bevyn-cover/index.qmd)
+- [Bill Winnett](/team/bill-winnett/index.qmd)
+- [Taylor Seitz](/team/taylor-seitz/index.qmd)
+- [Tracie Haan](/team/tracie-haan/index.qmd)

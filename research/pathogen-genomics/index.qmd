@@ -1,0 +1,42 @@
+---
+title: "Pathogen Genomics"
+description: "Long-read nanopore sequencing for biosurveillance of emerging pathogens, from Alaskan soils to African swine fever virus in Ukraine."
+image: /images/research/pathogen-genomics.jpg
+order: 2
+categories: [Pathogen Genomics, Global]
+nocite: |
+  @buttler2023assemblies, @bezymennyi2023asf, @rudova2022pcv2, @reddington2020riverine, @kovalenko2019asfv
+---
+
+[Project overview]{.eyebrow}
+
+::: {.lead}
+We use nanopore sequencing, a long-read technology recognized as Method of the
+Year 2022 by *Nature Methods*, to characterize pathogens and the environmental
+reservoir of antibiotic resistance.
+:::
+
+These methods let us better understand the environmental reservoir of antibiotic
+resistance in Alaska. Alongside the Alaska work, the lab contributed to a global
+consortium, the MinION Analysis and Reference Consortium, over the course of
+several years. We developed and applied standardized sampling methods and
+sequencing protocols to investigate microbial life in 11 rivers across three
+continents.
+
+We have also applied our nanopore expertise to advancing scientific capacity for
+genomics-based biosurveillance of emerging African swine fever virus and
+coinfections in Ukraine.
+
+::: {.horizon-rule}
+:::
+
+## Selected publications
+
+::: {#refs}
+:::
+
+## People on this project
+
+- [Anne Lise Ducluzeau](/team/anne-lise-ducluzeau/index.qmd)
+- [Jeremy Buttler](/team/jeremy-buttler/index.qmd)
+- [Upasana Arora](/team/upasana-arora/index.qmd)

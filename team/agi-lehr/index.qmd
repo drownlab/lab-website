@@ -1,0 +1,22 @@
+---
+title: "Ági Lehr"
+subtitle: "PhD Student"
+status: current
+role: "PhD Student"
+group: "Graduate Students"
+image: /images/team/agi-lehr.jpg
+description: "PhD Student"
+---
+
+::: {.person-header}
+![](/images/team/agi-lehr.jpg)
+
+::: {.person-meta}
+**Ági Lehr**  
+PhD Student  
+Drown Lab, University of Alaska Fairbanks
+:::
+:::
+
+Ági works on high latitude soil microbiomes, including characterization of
+northern Alaska soil microbial communities.

@@ -1,0 +1,25 @@
+---
+title: "Tracie Haan"
+subtitle: "Former Graduate Student"
+status: alumni
+role: "Former Graduate Student"
+group: "Graduate Students"
+image: /images/team/tracie-haan.jpg
+description: "Former Graduate Student"
+---
+
+::: {.person-header}
+![](/images/team/tracie-haan.jpg)
+
+::: {.person-meta}
+**Tracie Haan**  
+Former Graduate Student  
+Drown Lab, University of Alaska Fairbanks
+:::
+:::
+
+Tracie worked on antibiotic resistance associated with permafrost thaw and on
+SARS-CoV-2 genomic epidemiology in Alaska.
+
+Best Undergraduate Talk at the 2018 Western Alaska Interdisciplinary Science
+Conference.

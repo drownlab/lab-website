@@ -1,0 +1,26 @@
+---
+title: "Taylor Seitz"
+subtitle: "Former Graduate Student"
+status: alumni
+role: "Former Graduate Student"
+group: "Graduate Students"
+image: /images/team/taylor-seitz.jpg
+description: "Former Graduate Student"
+---
+
+::: {.person-header}
+![](/images/team/taylor-seitz.jpg)
+
+::: {.person-meta}
+**Taylor Seitz**  
+Former Graduate Student  
+Drown Lab, University of Alaska Fairbanks
+:::
+:::
+
+M.S. Biological Sciences, 2021, University of Alaska Fairbanks
+
+Thesis: *Searching the Soil: Characterizing the Effects of Disturbance on Soil
+Microbial Communities and Plant Productivity*
+
+2019 Outstanding Biological Sciences Undergraduate Student at UAF.

@@ -1,0 +1,22 @@
+---
+title: "Danielle Wrenn"
+subtitle: "Undergraduate Student"
+status: current
+role: "Undergraduate Student"
+group: "Undergraduate Students"
+image: /images/team/danielle-wrenn.jpg
+description: "Undergraduate Student"
+---
+
+::: {.person-header}
+![](/images/team/danielle-wrenn.jpg)
+
+::: {.person-meta}
+**Danielle Wrenn**  
+Undergraduate Student  
+Drown Lab, University of Alaska Fairbanks
+:::
+:::
+
+Wrenn, D. C., and Drown, D. M. (2023). Nanopore Adaptive Sampling Enriches for
+Antimicrobial Resistance Genes in Microbial Communities.

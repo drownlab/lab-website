@@ -1,0 +1,21 @@
+---
+title: "Geneva Mottet"
+subtitle: "Former Lab Member"
+status: alumni
+role: "Former Lab Member"
+group: "Graduate Students"
+image: /images/team/geneva-mottet.jpg
+description: "Former Lab Member"
+---
+
+::: {.person-header}
+![](/images/team/geneva-mottet.jpg)
+
+::: {.person-meta}
+**Geneva Mottet**  
+Former Lab Member  
+Drown Lab, University of Alaska Fairbanks
+:::
+:::
+
+Geneva was a member of the Drown Lab.

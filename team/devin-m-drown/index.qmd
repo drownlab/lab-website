@@ -1,0 +1,48 @@
+---
+title: "Devin M. Drown"
+subtitle: "Associate Professor"
+status: current
+role: "Associate Professor"
+group: "Principal Investigator"
+image: /images/team/devin-drown.jpg
+description: "Associate Professor"
+---
+
+::: {.person-header}
+![](/images/team/devin-drown.jpg)
+
+::: {.person-meta}
+**Devin M. Drown**  
+Associate Professor  
+Drown Lab, University of Alaska Fairbanks
+:::
+:::
+
+Ph.D. Biological Sciences, 2010, Washington State University
+
+Devin Drown is an Associate Professor of Biology at the University of Alaska
+Fairbanks. His research takes a One Health approach to questions related to
+ecosystem change. His group uses emerging next-generation sequencing tools to
+explore soil microbial communities of the Subarctic, understand the diversity of
+antibiotic resistance in disturbed environments, and detect emerging pathogens.
+
+He led a multi-year project expanding genomic surveillance of SARS-CoV-2 in
+Alaska. His research team has a commitment to broadening participation in
+biomedical research. He uses nanopore hackathons to enable undergraduates to
+analyze next-generation sequence data using bioinformatic pipelines to answer
+questions in genomics.
+
+## Appointments
+
+| Years | Position |
+|-------|----------|
+| 2021 - present | Associate Professor, University of Alaska Fairbanks |
+| 2021 - present | Faculty Director, Institute of Arctic Biology: Alaska Genomics Facility |
+| 2015 - 2021 | Assistant Professor, University of Alaska Fairbanks |
+| 2010 - 2014 | Postdoctoral Fellow, Indiana University |
+
+## Links
+
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=rgK-_NYAAAAJ&view_op=list_works&sortby=pubdate)
+- [ORCID 0000-0002-2437-7019](https://orcid.org/0000-0002-2437-7019)
+- Email: <dmdrown@alaska.edu>

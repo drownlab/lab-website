@@ -1,0 +1,43 @@
+---
+title: "Education and Outreach"
+description: "Curriculum development, nanopore hackathons, and a mobile sequencing laboratory that has run aboard a research vessel in the Bering Sea."
+image: /images/research/education.jpg
+order: 4
+categories: [Education, Alaska]
+nocite: |
+  @haan2020pseudomonas, @ducluzeau2019stemseas, @gibson2015redqueen
+---
+
+[Project overview]{.eyebrow}
+
+::: {.lead}
+We build education and outreach activities that put real sequencing data in
+students' hands.
+:::
+
+Recognizing a gap in the genomics curriculum, we developed a course on the human
+microbiome in which students generate and analyze next-generation sequencing
+data. We helped craft a game on host-parasite coevolution called the Red Queen's
+Race, an innovative approach to curriculum development. We integrated outreach
+into the classroom, where students write for a course blog on peer-reviewed
+literature.
+
+As a Chancellor's Innovation in Technology and E-learning (CITE) fellow at UAF,
+we developed further teaching innovations for undergraduate education, including
+integrating the Learning Glass into flipped classroom activities and online
+learning.
+
+Building on our nanopore expertise, we have run multiple workshops exploring
+genomics with the MinION platform. We developed a mobile laboratory for
+genomics, and in 2018 and 2019 the lab led workshops with STEMSEAS aboard the
+R/V *Sikuliaq*, a 261-foot oceanographic research ship. In 2020 the lab ran a
+workshop engaging undergraduates in the search for novel antibiotics in soil
+microbes.
+
+::: {.horizon-rule}
+:::
+
+## Selected publications
+
+::: {#refs}
+:::

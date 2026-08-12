@@ -1,0 +1,124 @@
+---
+title: "Our Team"
+subtitle: "Current lab members and former mentees"
+listing:
+  - id: current-members
+    contents: "../team/*/index.qmd"
+    include:
+      status: "current"
+    type: grid
+    grid-columns: 3
+    fields: [image, title, subtitle]
+    sort: "title"
+    image-height: "220px"
+  - id: alumni-members
+    contents: "../team/*/index.qmd"
+    include:
+      status: "alumni"
+    type: grid
+    grid-columns: 3
+    fields: [image, title, subtitle]
+    sort: "title"
+    image-height: "220px"
+---
+
+[Roster]{.eyebrow}
+
+## Current lab members
+
+::: {#current-members .roster}
+:::
+
+## Former mentees
+
+::: {#alumni-members .roster}
+:::
+
+::: {.horizon-rule}
+:::
+
+## Former undergraduate researchers
+
+**Spencer Owens** (2022-2023, pursuing BS, University of Alaska Fairbanks)
+
+- 2022-2023 Alaska BLaST Scholar
+
+**Owen White** (2021-2022, pursuing BS, University of Alaska Fairbanks)
+
+**Shayna Matson** (2020-2022, BS, University of Alaska Fairbanks)
+
+- Honors Thesis: Evaluating Microbial Communities in the UAF Campus Water Distribution System After COVID-19 Building Closure
+- 2020-2022 Alaska BLaST Scholar
+
+**Margot Lockwood** (2021, BA, University of Kansas)
+
+- 2021 Alaska REU Student
+
+**Anna Kardash** (2020-2021, BS, University of Alaska Fairbanks)
+
+- 2020-2021 Alaska BLaST URE, Characterization of antibiotics produced by subarctic soil bacteria using High Pressure Liquid Chromatography
+
+**Margot Chisholm** (2020, BS, Middlebury College)
+
+- 2020 Alaska REU Student
+
+**Kyle Callegari** (2019-2020, BS, University of Alaska Fairbanks)
+
+**Sabrina Bishop** (2019-2020, BS, University of Alaska Fairbanks)
+
+**Samantha Haines** (2019-2020, BS, University of Alaska Fairbanks)
+
+**Taylor Seitz** (2018-2019, BS, University of Alaska Fairbanks)
+
+- 2019 Honors Thesis: Digging up the dirt, plant pathogenicity genes associated with disturbed permafrost
+- 2019 Outstanding Biological Sciences Undergraduate Student at UAF
+- 2018 Alaska URSA, Unearthing a reservoir of antibiotic resistance within Fairbanks permafrost
+
+**Jennie Humphrey** (2017-2019, BS, University of Alaska Fairbanks)
+
+- 2017, 2018 Alaska BLaST Scholar
+
+**Josette McLean** (2018, BS, St. George's University, Grenada)
+
+- 2018 Alaska REU Student
+
+**Chloe Bryson** (2018, BS, Salish Kootenai College)
+
+- 2018 Alaska BLaST Exchange Student
+
+**Scout McDougall** (2017-2018, BS, University of Alaska Fairbanks)
+
+**Patrick Knavel** (2018, BS, University of Alaska Fairbanks)
+
+- 2018 Alaska URSA, Understanding the microbiomes of invasive *Esox lucius*
+
+**Abigail Vandenberg** (2018, BS, University of Alaska Fairbanks)
+
+**Tracie Haan** (2017-2018, BS, University of Alaska Fairbanks, then MS at UAF)
+
+- Best Undergraduate Talk at the 2018 Western Alaska Interdisciplinary Science Conference
+- 2017-2018 Alaska BLaST URE, Co-selection of heavy metal and antibiotic resistance genes in boreal forest soil microbes affected by thawing permafrost
+
+**Alex Keller** (2016-2017, BS, University of Alaska Fairbanks)
+
+- 2017 Alaska URSA, Testing the effects of the changing pH from Alaskan microbiome on subsistence berries
+
+**Madeline McCarthy** (2016-2017, BS, University of Guelph, now PhD at University of Saskatchewan)
+
+- Best Undergraduate Poster at the 2017 Midnight Sun Science Symposium
+- 2016-2017 Alaska BLaST URE, Comparison of antibiotic resistance in soils from ancient and modern permafrost
+- 2016 Alaska BLaST URE, Identification and analysis of antibiotic resistant plasmids in the microbial communities of a Fairbanks permafrost gradient
+
+**Anastasia Butler** (2016-2017, BA, University of Alaska Fairbanks)
+
+- 2016 Alaska URSA, Understanding the genetic diversity of bird vetch
+
+**Alex Wynne** (2016-2017, BS, University of Alaska Fairbanks)
+
+- 2016 Alaska URSA, Does permafrost thaw alter methane cycling via a shift in the microbial community composition?
+
+**Patrick Smith** (2016, BS, University of Alaska Fairbanks)
+
+**Jackson Drew** (2015-2016, BS, University of Alaska Fairbanks, now PhD at UAF)
+
+- 2016 Alaska URSA, Testing the effects of the Alaskan microbiome on a model organism, *Arabidopsis thaliana*

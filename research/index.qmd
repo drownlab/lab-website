@@ -1,0 +1,19 @@
+---
+title: "Research"
+subtitle: "Ongoing and past areas of work in the lab"
+listing:
+  contents: "*/index.qmd"
+  type: grid
+  grid-columns: 2
+  sort: "order"
+  fields: [image, title, description, categories]
+  image-height: "220px"
+  categories: true
+---
+
+[Topics]{.eyebrow}
+
+Our work spans soil microbial ecology, antimicrobial resistance, and pathogen
+genomics, unified by a One Health framing and a methodological commitment to
+long-read sequencing. Each topic below collects the motivation, the resulting
+publications, and the students who did the work.

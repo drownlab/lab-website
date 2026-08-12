@@ -1,0 +1,70 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - CNAME
+
+website:
+  title: "Drown Lab"
+  description: "Microbial ecology, pathogen genomics, and high latitude soil microbiomes at the University of Alaska Fairbanks."
+  site-url: https://lab.devindrown.com
+  favicon: images/favicon.png
+  open-graph: true
+  twitter-card: true
+
+  navbar:
+    logo: images/logo.png
+    title: "Drown Lab"
+    left:
+      - text: "Research"
+        href: research/index.qmd
+      - text: "People"
+        menu:
+          - text: "Our Team"
+            href: our-team/index.qmd
+          - text: "Devin M. Drown, PhD"
+            href: team/devin-m-drown/index.qmd
+          - text: "Mentoring Philosophy"
+            href: mentoring-philosophy/index.qmd
+          - text: "Collaborations"
+            href: collaborations/index.qmd
+          - text: "Join the Lab"
+            href: join-the-lab/index.qmd
+      - text: "Publications"
+        href: lab-publications/index.qmd
+      - text: "Teaching"
+        href: teaching/index.qmd
+      - text: "Contact"
+        href: contact/index.qmd
+    right:
+      - icon: google
+        href: https://scholar.google.com/citations?hl=en&user=rgK-_NYAAAAJ&view_op=list_works&sortby=pubdate
+        aria-label: "Google Scholar"
+      - icon: github
+        href: https://github.com/
+        aria-label: "GitHub"
+
+  page-footer:
+    left: "Drown Lab &middot; Institute of Arctic Biology &middot; University of Alaska Fairbanks"
+    right:
+      - text: "Contact"
+        href: contact/index.qmd
+      - text: "Join the Lab"
+        href: join-the-lab/index.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    grid:
+      body-width: 900px
+
+bibliography: refs.bib
+csl: apa.csl
+
+execute:
+  freeze: auto

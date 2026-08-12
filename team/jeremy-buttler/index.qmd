@@ -1,0 +1,22 @@
+---
+title: "Jeremy Buttler"
+subtitle: "Former Graduate Student"
+status: alumni
+role: "Former Graduate Student"
+group: "Graduate Students"
+image: /images/team/jeremy-buttler.jpg
+description: "Former Graduate Student"
+---
+
+::: {.person-header}
+![](/images/team/jeremy-buttler.jpg)
+
+::: {.person-meta}
+**Jeremy Buttler**  
+Former Graduate Student  
+Drown Lab, University of Alaska Fairbanks
+:::
+:::
+
+Jeremy worked on the accuracy and completeness of long read metagenomic
+assemblies, and on viral genomics in the Ukraine collaboration.

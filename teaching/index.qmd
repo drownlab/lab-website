@@ -1,0 +1,69 @@
+---
+title: "Teaching"
+subtitle: "Courses, workshops, and prior instruction"
+---
+
+[Courses at UAF]{.eyebrow}
+
+## Principles of Evolution
+
+**BIOL 481**
+
+Patterns and processes of evolutionary change are used to explore the unifying
+principles of the biological sciences. Basic models of population genetics,
+quantitative genetics, development, phylogenetics, and systematics build a
+conceptual framework for the study of living systems.
+
+- [Class science outreach blog](http://evolve.community.uaf.edu/)
+
+## The Human Microbiome
+
+**BIOL 491**
+
+Biology of host-associated microbiomes with an emphasis on the human microbiome.
+Investigate microbial impacts on the behavior, physiology, and fitness of their
+host. Explore model and non-model systems. Student projects in this course may
+satisfy the capstone project requirements of the biological science degree.
+
+::: {.horizon-rule}
+:::
+
+## Workshops
+
+**2022** Portable Genomics Hackathon for Pathogens, Fairbanks, AK.
+
+**2020** Antibiotic Discovery Alaska, workshop introducing undergraduates to
+microbiology.
+
+**2018, 2019** Genomics and epidemiology capacity building workshop with Bortz
+on African swine fever virus using nanopore sequencing, Kyiv, Ukraine.
+
+**2018, 2019** STEMSEAS with Ducluzeau, mobile nanopore sequencing workshop
+aboard the R/V *Sikuliaq* in the Gulf of Alaska.
+
+**2016, 2017, 2018** MinION Hackathon, workshop introducing students to nanopore
+sequencing. University of Alaska Fairbanks; Western Alaska Interdisciplinary
+Science Conference, Nome, AK; Alaska Branch of the American Society for
+Microbiology, Fairbanks, AK.
+
+::: {.horizon-rule}
+:::
+
+## Prior teaching
+
+**2011-2012, Indiana University**  
+Special topics in evolutionary biology: modern synthesis, adaptive landscapes.
+Guest lecture on coevolution of humans and diseases.
+
+**2005-2010, Washington State University**  
+Lab instructor for introductory organismal biology and marine ecology. Guest
+lectures in introduction to mathematical biology and principles of organic
+evolution.
+
+**2003, Boston University**  
+Assistant in lecture and lab, molecular ecology and evolution.
+
+**1998-2000, University of Utah**  
+Lab instructor in molecular evolution. Assistant in lecture for principles of
+ecology and evolution, principles of biology II, and organismal diversity form
+and function.

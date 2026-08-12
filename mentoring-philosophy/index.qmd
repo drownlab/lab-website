@@ -1,0 +1,92 @@
+---
+title: "Mentoring Philosophy"
+subtitle: "How we work together in this lab"
+---
+
+[Mentoring]{.eyebrow}
+
+::: {.lead}
+I want most of all to help my students learn how to think about complex problems
+in biology, and how to apply their analytical skills to the larger issues they
+will face as citizens.
+:::
+
+My goal in mentoring at all levels is to give students the tools they need to
+apply new knowledge to other advanced subjects. **I want my students to gain the
+ability to think critically and to use the scientific method to analyze problems
+and draw logical conclusions.**
+
+Through achieving this goal, I hope my mentees develop independence. That
+requires teaching students how to break down a problem, how to critically
+analyze data, and how to reach an answer supported by evidence. When students
+acquire analytical skills to solve problems, they gain the ability to apply what
+they have learned to new problems and come up with creative solutions.
+
+Both of my parents were high school teachers, and they showed me that I must
+take an active role helping students understand the challenge of a new subject.
+Success requires assessing student comprehension and revising my methods in
+light of what proves effective. I strive to be responsive to the individual
+needs of my mentees.
+
+Teaching at all levels should provide not only content about the particular
+subject, but also opportunities to learn about the process of doing science.
+Giving students the story of how data are collected or experiments are designed
+gives them a clearer understanding of the scientific method. **Teaching students
+about the process of science develops their analytical toolbox so they can apply
+their knowledge to new areas.** Perhaps the best way to learn the scientific
+method is to have the opportunity to do research.
+
+During my graduate and postdoctoral career, I mentored several undergraduate and
+graduate students on research projects. In one long-term survey of genetic
+diversity, the student and I discussed the sampling design before collecting any
+data, and she chose a portion to work on. We read background material on the
+molecular techniques and then applied them by sequencing DNA from field
+collected snails. Because her research was part of a larger survey, she could
+put her work into a more complete context. At the end of the project she
+presented her research as an honors thesis, written and oral.
+
+I emphasize building a solid mastery of knowledge. By revisiting past
+accomplishments, I want to foster confidence and a spirit of independence. My
+research space is built into an open lab environment, where mentees can observe
+researchers at all levels in the midst of doing experiments. There are ample
+opportunities to learn new methods and techniques, and also to witness the
+challenges of conducting research. My door is open and the coffee machine is
+within sight. I hope mentees drop by to talk about research. Once a week we
+address the previous week's accomplishments, deal with unexpected issues, and
+identify the set of goals for the next few weeks.
+
+::: {.horizon-rule}
+:::
+
+## Teaching and mentoring education
+
+**2022, The Inclusive STEM Teaching Project**  
+Seven-week course engaging participants in reflection and discussion around
+equity and inclusion in learning environments across a variety of institutional
+contexts. Designed around identity, power, positionality, and privilege, with
+the goal of improving participants' awareness, self-efficacy, and ability to
+create inclusive STEM learning environments.
+
+**2020, Active LENS Train-the-Trainers Workshop**  
+Weeklong workshop on integrating the Avida-ED digital evolution learning
+platform into coursework.
+
+**2019, EPIC, University of Alaska Fairbanks**  
+Two-semester, cohort-based program supporting UAF teachers developing and
+delivering online courses.
+
+**2016, Research Mentor Training, National Research Mentoring Network**  
+Six-week synchronous online workshop focused on improving mentoring
+relationships with undergraduate researchers, with a community of peers from
+across the country.
+
+**2015, iTeach, University of Alaska Fairbanks**  
+Hands-on workshop from the Instructional Design Team at UAF eLearning and
+Distance Education, covering research management, course scheduling, and
+building and managing online learning communities.
+
+**2007, Preparation for College Teaching, Washington State University**  
+Formal instruction on strategies for teaching material in different contexts,
+including student assessment beyond standard tests and quizzes, communication
+skills for engaging students during lecture, and leadership and management
+skills for combining an active research program with teaching responsibilities.

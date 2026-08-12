@@ -1,0 +1,26 @@
+---
+title: "Bevyn Cover"
+subtitle: "Master's Student"
+status: current
+role: "Master's Student"
+group: "Graduate Students"
+image: /images/team/bevyn-cover.jpg
+description: "Master's Student"
+---
+
+::: {.person-header}
+![](/images/team/bevyn-cover.jpg)
+
+::: {.person-meta}
+**Bevyn Cover**  
+Master's Student  
+Drown Lab, University of Alaska Fairbanks
+:::
+:::
+
+Bevyn works on genomic epidemiology and high latitude soil microbiomes.
+
+Haan TJ, Cover BA, Drown DM and the Alaska Sequencing Consortium. 2021-2023.
+[Alaska Coronavirus Variants Dashboard](https://akvariants.github.io/).
+
+2023-2024 Alaska INBRE Graduate Research Assistantship.

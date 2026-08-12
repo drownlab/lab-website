@@ -1,0 +1,21 @@
+---
+title: "Upasana Arora"
+subtitle: "PhD Student"
+status: current
+role: "PhD Student"
+group: "Graduate Students"
+image: /images/team/upasana-arora.jpg
+description: "PhD Student"
+---
+
+::: {.person-header}
+![](/images/team/upasana-arora.jpg)
+
+::: {.person-meta}
+**Upasana Arora**  
+PhD Student  
+Drown Lab, University of Alaska Fairbanks
+:::
+:::
+
+Upasana works on pathogen genomics in the lab.

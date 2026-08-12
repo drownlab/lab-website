@@ -1,0 +1,17 @@
+---
+title: "Presentations"
+subtitle: "Talks and posters from the lab"
+---
+
+[Selected presentations]{.eyebrow}
+
+::: {.pub-note}
+This page still needs content ported from the old site. Add entries below in the
+same format, or convert it to a listing driven by a `presentations.bib` file the
+way the publications page works.
+:::
+
+## 2026
+
+- Lightning talk on adaptive metagenomics sampling, NISBRE 2026.
+- Overview poster, northern Alaska soil microbiome project, NISBRE 2026.

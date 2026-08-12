@@ -1,0 +1,21 @@
+---
+title: "Bill Winnett"
+subtitle: "Master's Student"
+status: current
+role: "Master's Student"
+group: "Graduate Students"
+image: /images/team/bill-winnett.jpg
+description: "Master's Student"
+---
+
+::: {.person-header}
+![](/images/team/bill-winnett.jpg)
+
+::: {.person-meta}
+**Bill Winnett**  
+Master's Student  
+Drown Lab, University of Alaska Fairbanks
+:::
+:::
+
+Bill works on high latitude soil microbiomes.

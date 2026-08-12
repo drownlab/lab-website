@@ -1,0 +1,23 @@
+---
+title: "Anne Lise Ducluzeau"
+subtitle: "Former Postdoctoral Researcher"
+status: alumni
+role: "Former Postdoctoral Researcher"
+group: "Postdoctoral Researchers"
+image: /images/team/anne-lise-ducluzeau.jpg
+description: "Former Postdoctoral Researcher"
+---
+
+::: {.person-header}
+![](/images/team/anne-lise-ducluzeau.jpg)
+
+::: {.person-meta}
+**Anne Lise Ducluzeau**  
+Former Postdoctoral Researcher  
+Drown Lab, University of Alaska Fairbanks
+:::
+:::
+
+Anne Lise was a postdoctoral researcher in the lab working on pathogen genomics
+and on mobile nanopore sequencing education, including STEMSEAS workshops aboard
+the R/V *Sikuliaq*.

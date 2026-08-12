@@ -1,0 +1,21 @@
+---
+title: "Publications"
+subtitle: "Peer-reviewed journal articles from the lab"
+nocite: |
+  @*
+---
+
+[Journal articles]{.eyebrow}
+
+Click any DOI for access to the paper. Most recent articles are open access.
+If you cannot get access, request a PDF directly from the corresponding author.
+A continuously updated list is also available on the
+[Google Scholar profile](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=rgK-_NYAAAAJ&view_op=list_works).
+
+::: {.pub-note}
+This page builds itself from `refs.bib`. To add a paper, paste a BibTeX entry
+into that file and rebuild. Nothing on this page needs to be edited by hand.
+:::
+
+::: {#refs}
+:::

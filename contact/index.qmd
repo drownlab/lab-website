@@ -1,0 +1,27 @@
+---
+title: "Contact"
+subtitle: "Institute of Arctic Biology, University of Alaska Fairbanks"
+---
+
+[Get in touch]{.eyebrow}
+
+**Email:** <dmdrown@alaska.edu>
+
+**Mailing address**
+
+Institute of Arctic Biology  
+University of Alaska Fairbanks  
+2140 Koyukuk Dr.  
+Fairbanks, Alaska 99775  
+USA
+
+We are located in the
+[West Ridge Research Building](http://www.uaf.edu/campusmap/buildings/west-ridge-research/)
+on the West Ridge portion of the University of Alaska Fairbanks campus. A
+[complete UAF campus map](http://www.uaf.edu/campusmap/) is available online.
+
+## Affiliations
+
+- [University of Alaska Fairbanks](http://www.uaf.edu/)
+- [Institute of Arctic Biology](http://www.iab.uaf.edu/)
+- [Department of Biology and Wildlife](http://www.bw.uaf.edu/)

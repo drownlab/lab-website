@@ -1,0 +1,55 @@
+---
+title: "Drown Lab"
+subtitle: "Microbial ecology and pathogen genomics at the University of Alaska Fairbanks"
+listing:
+  - id: featured-research
+    contents:
+      - research/sars-cov-2-genomic-epidemiology/index.qmd
+      - research/pathogen-genomics/index.qmd
+      - research/high-latitude-soil-microbiomes/index.qmd
+    type: grid
+    grid-columns: 3
+    fields: [image, title, description]
+    sort: false
+    image-height: "200px"
+---
+
+[The lab]{.eyebrow}
+
+::: {.lead}
+We pursue microbiological questions related to ecosystem change and the
+surveillance of infectious diseases, addressed through the lens of emerging
+next-generation sequencing tools. These topics rely on a One Health approach
+that connects human, animal, and environmental health.
+:::
+
+Our research has three primary emphases. We track the spread of emerging human
+and veterinary pathogens, from SARS-CoV-2 in Alaska to African swine fever virus
+in Ukraine. We explore how disturbance shapes the resistome, the environmental
+reservoir of antibiotic resistance genes. And we examine how thawing permafrost
+affects the microbes in the overlying soil, along with the downstream
+consequences for boreal forest plant growth.
+
+The work combines fieldwork, molecular analysis, and experimental laboratory
+research with mathematical modeling. Our research team has a commitment to
+broadening participation in biomedical research.
+
+::: {.horizon-rule}
+:::
+
+## Current research
+
+::: {#featured-research}
+:::
+
+[See all research topics](research/index.qmd)
+
+::: {.horizon-rule}
+:::
+
+## Join us
+
+We are always interested in hearing from prospective graduate students and
+undergraduate researchers. Read about
+[what it is like to work here](mentoring-philosophy/index.qmd), then
+[get in touch](join-the-lab/index.qmd).
